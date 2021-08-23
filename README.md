@@ -23,12 +23,13 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 ```
 
 ## Screenshots 
+<img src="Assets/NoteTaker.png" alt="screenshot" />
 
- ## Installation
- Run `npm install`. 
+## Installation
+Run `npm install`. 
 
 ## Usage
-This application is being run on Heroku. 
+This application is being run on [Heroku](https://notetakervalbona.herokuapp.com/)
 
 To run locally, use the command line to navigate to the root of the application and run `node server.js`. 
 
