@@ -23,10 +23,18 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 ```
 
 ## Screenshots 
+A little demo of how the app works. 
+![Screen Recording](Assets/notetaker.gif)
+
+A screenshot of the deployed app. 
 <img src="Assets/NoteTaker.png" alt="screenshot" />
 
 ## Installation
 Run `npm install`. 
+
+Run `npm i express`.
+
+Run `npm i uuid`.
 
 ## Usage
 This application is being run on [Heroku](https://notetakervalbona.herokuapp.com/)
